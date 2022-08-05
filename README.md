@@ -1,6 +1,6 @@
 ## Hey guys! I am Irfan Zidni
  
-- I'm currently learning about Web Development.
+- I'm currently learning about Mobile Development.
 - I like listening to music while coding 
 
 # Github Stat
